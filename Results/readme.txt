@@ -1,3 +1,3 @@
 the results are as follows:
 
-USER MONTH HOUR
+USER MONTH HOUR       X Y Z
